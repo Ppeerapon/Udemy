@@ -1,4 +1,6 @@
-public class SpeedConverter {
+package Section_4;
+
+public class CE1_SpeedConverter {
 
     public static long toMilesPerHour(double kilometersPerHour) {
 

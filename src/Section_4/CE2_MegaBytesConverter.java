@@ -1,4 +1,6 @@
-public class MegaBytesConverter {
+package Section_4;
+
+public class CE2_MegaBytesConverter {
 
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
 

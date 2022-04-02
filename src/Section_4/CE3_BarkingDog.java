@@ -1,4 +1,6 @@
-public class BarkingDog {
+package Section_4;
+
+public class CE3_BarkingDog {
 
     public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
 
