@@ -1,8 +1,8 @@
-package Section_8;
+package Section_8.CE42_MinimumElement;
 
 import java.util.Scanner;
 
-public class CE42_MinimumElement {
+public class MinimumElement {
 
     private static int readInteger() {
         Scanner scanner = new Scanner(System.in);

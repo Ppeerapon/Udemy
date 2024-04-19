@@ -1,8 +1,8 @@
-package Section_8;
+package Section_8.CE41_SortedArray;
 
 import java.util.Scanner;
 
-public class CE41_SortedArray {
+public class SortedArray {
 
     public static int[] getIntegers(int size) {
         Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package Section_8;
+package Section_8.CE43_ReverseArray;
 
 import java.util.Arrays;
 
-public class CE43_ReverseArray {
+public class ReverseArray {
 
     private static void reverse(int[] array) {
         int[] reverseArray = array.clone();
